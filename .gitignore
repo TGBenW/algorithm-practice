@@ -27,7 +27,24 @@ DerivedData/
 *.playground/
 *.swiftpm/
 
-# Editors
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+.eggs/
+dist/
+build/
+venv/
+ENV/
+.env
+.venv/
+*.log
+
+# Editors / IDEs
 *.swp
 *.swo
 *~
