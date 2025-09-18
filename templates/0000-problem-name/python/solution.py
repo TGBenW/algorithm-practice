@@ -1,2 +1,2 @@
-№№ solution.py
+## solution.py
 
