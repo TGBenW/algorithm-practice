@@ -1,3 +1,5 @@
+// solution.swift
+
 func cavityMap(grid: [String]) -> [String] {
     let n = grid.count
     guard n >= 3 else { return grid } // no inner cells to mark
@@ -28,5 +30,4 @@ func cavityMap(grid: [String]) -> [String] {
 // --- demo run (from sample) ---
 let g0 = ["1112", "1912", "1892", "1234"]
 print(cavityMap(grid: g0))
-// ["1112", "1X12", "18X2", "1234"]// solution.swift
-
+// ["1112", "1X12", "18X2", "1234"]
