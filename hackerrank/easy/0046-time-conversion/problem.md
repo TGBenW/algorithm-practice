@@ -6,7 +6,7 @@ difficulty: easy
 tags: [strings, parsing, formatting, time]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/time-conversion/problem
-date: 2025-11-10
+date: 2025-11-11
 time_spent_min:
 ---
 
