@@ -6,7 +6,7 @@ difficulty: easy
 tags: [search, binary-search, arrays, fundamentals]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/tutorial-intro/problem
-date: 2025-11-10
+date: 2025-11-12
 time_spent_min:
 ---
 
