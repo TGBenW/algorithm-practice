@@ -6,7 +6,7 @@ difficulty: easy
 tags: [arrays, hashing, distances, two-indices]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/minimum-distances/problem
-date: 2025-11-10
+date: 2025-11-13
 time_spent_min:
 ---
 
