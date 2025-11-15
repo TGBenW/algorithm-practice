@@ -6,7 +6,7 @@ difficulty: easy
 tags: [implementation, simulation, arithmetic, loops]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/halloween-sale/problem
-date: 2025-11-14
+date: 2025-11-15
 time_spent_min:
 ---
 
