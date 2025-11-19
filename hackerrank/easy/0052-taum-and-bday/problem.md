@@ -6,7 +6,7 @@ difficulty: easy
 tags: [implementation, math, greedy, cost-minimization]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/taum-and-bday/problem
-date: 2025-11-10
+date: 2025-11-19
 time_spent_min:
 ---
 
