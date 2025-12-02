@@ -6,7 +6,7 @@ difficulty: easy
 tags: [arrays, math, counting, hashing]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/beautiful-triplets/problem
-date: 2025-11-28
+date: 2025-12-02
 time_spent_min:
 ---
 
