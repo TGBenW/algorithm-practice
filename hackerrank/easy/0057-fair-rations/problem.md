@@ -6,7 +6,7 @@ difficulty: easy
 tags: [greedy, implementation, arrays]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/fair-rations/problem
-date: 2025-12-03
+date: 2025-12-05
 time_spent_min:
 ---
 
