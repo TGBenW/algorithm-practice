@@ -6,7 +6,7 @@ difficulty: medium
 tags: [strings, 2d-array, brute-force, pattern-search]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/the-grid-search/problem
-date: 2025-12-03
+date: 2025-12-06
 time_spent_min:
 ---
 
