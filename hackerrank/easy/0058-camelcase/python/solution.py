@@ -15,3 +15,6 @@ def camelcase(s: str) -> int:
 if __name__ == "__main__":
     sample = "saveChangesInTheEditor"  # Expected: 5
     print(camelcase(sample))
+
+
+    
