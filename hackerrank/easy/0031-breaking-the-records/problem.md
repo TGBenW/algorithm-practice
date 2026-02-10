@@ -6,7 +6,7 @@ difficulty: easy
 tags: [arrays, simulation]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
-date: 2025-10-09
+date: 2025-10-22
 time_spent_min:
 ---
 
