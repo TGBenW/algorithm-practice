@@ -6,7 +6,7 @@ difficulty: easy
 tags: [greedy, arrays, game-logic]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
-date: 2025-11-01
+date: 2025-11-06
 time_spent_min:
 ---
 
