@@ -6,7 +6,7 @@ difficulty: easy
 tags: [strings, math, counting]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/repeated-string/problem
-date: 2025-10-30
+date: 2025-10-31
 time_spent_min:
 ---
 
