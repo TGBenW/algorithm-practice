@@ -6,7 +6,7 @@ difficulty: medium
 tags: [implementation, greedy, counting, matrices]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem
-date: 2025-11-19
+date: 2025-11-21
 time_spent_min:
 ---
 
