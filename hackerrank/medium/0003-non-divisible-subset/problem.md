@@ -6,7 +6,7 @@ difficulty: medium
 tags: [math, modular-arithmetic, combinatorics, greedy]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/non-divisible-subset/problem
-date: 2025-10-30
+date: 2025-10-31
 time_spent_min:
 ---
 
