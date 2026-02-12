@@ -6,7 +6,7 @@ difficulty: medium
 tags: [big-integer, math]
 langs: [swift, js, python]
 link: https://hackerrank.com/challenges/extra-long-factorials/problem
-date: 2025-10-09
+date: 2025-10-17
 time_spent_min:
 ---
 
