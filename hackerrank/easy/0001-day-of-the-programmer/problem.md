@@ -6,7 +6,7 @@ difficulty: easy
 tags: [implementation, calendar]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/day-of-the-programmer/problem
-date: 2025-09-15
+date: 2025-09-17
 time_spent_min:
 ---
 
