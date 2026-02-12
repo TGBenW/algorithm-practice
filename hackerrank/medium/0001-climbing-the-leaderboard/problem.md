@@ -6,7 +6,7 @@ difficulty: medium
 tags: [binary-search, arrays, sorting]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
-date: 2025-10-05
+date: 2025-10-06
 ---
 
 **Summary**  
