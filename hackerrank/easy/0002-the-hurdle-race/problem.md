@@ -6,7 +6,7 @@ difficulty: easy
 tags: [implementation, math]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/the-hurdle-race/problem
-date: 2025-09-15
+date: 2025-09-17
 time_spent_min:
 ---
 
