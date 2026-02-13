@@ -6,7 +6,7 @@ difficulty: easy
 tags: [implementation, comparison]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/compare-the-triplets/problem
-date: 2025-09-18
+date: 2025-09-21
 time_spent_min:
 ---
 
