@@ -6,7 +6,7 @@ difficulty: easy
 tags: [implementation, ranges]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/apple-and-orange/problem
-date: 2025-09-18
+date: 2025-09-22
 time_spent_min:
 ---
 
