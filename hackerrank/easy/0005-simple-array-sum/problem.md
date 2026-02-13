@@ -6,7 +6,7 @@ difficulty: easy
 tags: [implementation, array, sum]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/simple-array-sum/problem
-date: 2025-09-18
+date: 2025-09-20
 time_spent_min:
 ---
 
