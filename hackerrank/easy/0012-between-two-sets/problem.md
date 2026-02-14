@@ -6,7 +6,7 @@ difficulty: easy
 tags: [number-theory, gcd, lcm]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/between-two-sets/problem
-date: 2025-09-18
+date: 2025-09-27
 time_spent_min:
 ---
 
