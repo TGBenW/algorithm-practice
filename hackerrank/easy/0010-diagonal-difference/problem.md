@@ -6,7 +6,7 @@ difficulty: easy
 tags: [implementation, matrix, absolute-difference]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/diagonal-difference/problem
-date: 2025-09-18
+date: 2025-09-25
 time_spent_min:
 ---
 
