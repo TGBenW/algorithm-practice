@@ -6,7 +6,7 @@ difficulty: easy
 tags: [implementation, math, precision]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/plus-minus/problem
-date: 2025-09-18
+date: 2025-09-26
 time_spent_min:
 ---
 
