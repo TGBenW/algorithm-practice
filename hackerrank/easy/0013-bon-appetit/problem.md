@@ -6,7 +6,7 @@ difficulty: easy
 tags: [implementation, arrays]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/bon-appetit/problem
-date: 2025-09-18
+date: 2025-09-28
 time_spent_min:
 ---
 
