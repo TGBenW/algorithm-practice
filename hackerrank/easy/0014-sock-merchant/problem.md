@@ -6,7 +6,7 @@ difficulty: easy
 tags: [hashmap, counting]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/sock-merchant/problem
-date: 2025-09-18
+date: 2025-09-29
 time_spent_min:
 ---
 
