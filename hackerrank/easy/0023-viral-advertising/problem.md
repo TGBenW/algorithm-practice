@@ -6,7 +6,7 @@ difficulty: easy
 tags: [simulation, math]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/strange-advertising/problem
-date: 2025-10-08
+date: 2025-10-12
 time_spent_min:
 ---
 
