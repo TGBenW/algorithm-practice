@@ -6,7 +6,7 @@ difficulty: easy
 tags: [implementation, two-pointers, greedy]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/electronics-shop/problem
-date: 2025-09-18
+date: 2025-10-02
 time_spent_min:
 ---
 
