@@ -6,7 +6,7 @@ difficulty: easy
 tags: [math, implementation, loops]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
-date: 2025-10-08
+date: 2025-10-11
 time_spent_min:
 ---
 
