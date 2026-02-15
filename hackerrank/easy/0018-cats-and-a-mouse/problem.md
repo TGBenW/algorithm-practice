@@ -6,7 +6,7 @@ difficulty: easy
 tags: [implementation, math]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
-date: 2025-09-18
+date: 2025-10-03
 time_spent_min:
 ---
 
