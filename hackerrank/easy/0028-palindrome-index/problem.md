@@ -6,7 +6,7 @@ difficulty: easy
 tags: [two-pointers, strings]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/palindrome-index/problem
-date: 2025-10-09
+date: 2025-10-19
 time_spent_min:
 ---
 
