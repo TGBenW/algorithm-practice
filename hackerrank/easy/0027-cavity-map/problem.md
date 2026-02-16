@@ -6,7 +6,7 @@ difficulty: easy
 tags: [grid, strings, simulation]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/cavity-map/problem
-date: 2025-10-09
+date: 2025-10-17
 time_spent_min:
 ---
 
