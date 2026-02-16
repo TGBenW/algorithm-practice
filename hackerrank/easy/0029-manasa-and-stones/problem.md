@@ -6,7 +6,7 @@ difficulty: easy
 tags: [math, combinatorics]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/manasa-and-stones/problem
-date: 2025-10-09
+date: 2025-10-20
 time_spent_min:
 ---
 
