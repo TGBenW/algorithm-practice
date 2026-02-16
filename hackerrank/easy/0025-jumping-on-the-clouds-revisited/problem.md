@@ -6,7 +6,7 @@ difficulty: easy
 tags: [simulation, modulo]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
-date: 2025-10-08
+date: 2025-10-15
 time_spent_min:
 ---
 
