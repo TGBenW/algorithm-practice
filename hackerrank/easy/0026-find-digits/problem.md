@@ -6,7 +6,7 @@ difficulty: easy
 tags: [math, modulo, digits]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/find-digits/problem
-date: 2025-10-09
+date: 2025-10-16
 time_spent_min:
 ---
 
