@@ -6,7 +6,7 @@ difficulty: easy
 tags: [arrays, math, modulo]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/circular-array-rotation/problem
-date: 2025-10-08
+date: 2025-10-13
 time_spent_min:
 ---
 
