@@ -6,7 +6,7 @@ difficulty: easy
 tags: [frequency, counting, arrays]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/migratory-birds/problem
-date: 2025-10-09
+date: 2025-10-26
 time_spent_min:
 ---
 
