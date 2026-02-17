@@ -6,7 +6,7 @@ difficulty: easy
 tags: [arrays, sliding-window]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/the-birthday-bar/problem
-date: 2025-10-09
+date: 2025-10-23
 time_spent_min:
 ---
 
