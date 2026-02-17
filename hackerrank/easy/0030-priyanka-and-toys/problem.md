@@ -6,7 +6,7 @@ difficulty: easy
 tags: [greedy, sorting]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/priyanka-and-toys/problem
-date: 2025-10-09
+date: 2025-10-21
 time_spent_min:
 ---
 
