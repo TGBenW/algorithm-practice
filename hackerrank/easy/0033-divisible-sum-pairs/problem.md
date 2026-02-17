@@ -6,7 +6,7 @@ difficulty: easy
 tags: [math, modular-arithmetic, arrays]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
-date: 2025-10-09
+date: 2025-10-24
 time_spent_min:
 ---
 
