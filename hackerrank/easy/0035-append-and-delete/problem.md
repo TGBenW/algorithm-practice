@@ -6,7 +6,7 @@ difficulty: easy
 tags: [strings, simulation, math]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/append-and-delete/problem
-date: 2025-10-09
+date: 2025-10-26
 time_spent_min:
 ---
 
