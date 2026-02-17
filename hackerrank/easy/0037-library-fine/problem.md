@@ -6,7 +6,7 @@ difficulty: easy
 tags: [date, math, conditions]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/library-fine/problem
-date: 2025-10-27
+date: 2025-10-29
 time_spent_min:
 ---
 
