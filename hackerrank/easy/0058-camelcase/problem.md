@@ -6,7 +6,7 @@ difficulty: easy
 tags: [strings, counting]
 langs: [swift, js, python]
 link: https://www.hackerrank.com/challenges/camelcase/problem
-date: 2025-12-07
+date: 2025-12-06
 time_spent_min:
 ---
 
